@@ -1,0 +1,186 @@
+#main_cont{
+	margin: auto;
+	width: 1000px;
+	height: 1000px;
+	background: rgba(76, 73, 72, 0.5);
+	border-top: 10px  solid #4C4948;
+	border-bottom: 10px  solid #4C4948;
+	border-left: 10px  solid #4C4948;
+	border-right: 10px  solid #4C4948;
+	overflow: scroll;
+	overflow-x: hidden;
+
+}
+
+
+
+#Game1{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/Metro.png');	
+	float: left;
+	margin-left: 35px;
+	margin-top: 140px;
+}
+#Game2{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/Control.png');	
+	float: left;
+	margin-left: 115px;
+	margin-top: 50px;
+}
+
+#Game3{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/Greedfall.png');	
+	float: left;
+	margin-left: 115px;
+	margin-top: 50px;
+}
+
+#Game4{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/Subnautica.png');	
+	float: left;
+	margin-left: 115px;
+	margin-top: 50px;
+}
+
+#Game5{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/Witcher.png');	
+	float: left;
+	margin-left: 115px;
+	margin-top: 50px;
+}
+
+#Game6{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/Detroit.png');	
+	float: left;
+	margin-left: 115px;
+	margin-top: 50px;
+}
+
+#Game7{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/GTA.png');	
+	float: left;
+	margin-left: 115px;
+	margin-top: 50px;
+}
+
+#Game8{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/Fallout.png');	
+	float: left;
+	margin-left: 115px;
+	margin-top: 50px;
+}
+
+#Game9{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/Biomutant.png');	
+	float: left;
+	margin-left: 115px;
+	margin-top: 50px;
+}
+
+#Game10{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/MK11.png');	
+	float: left;
+	margin-left: 115px;
+	margin-top: 50px;
+}
+
+#Game11{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/Divinity.png');	
+	float: left;
+	margin-left: 115px;
+	margin-top: 50px;
+}
+
+#Game12{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/Gears5.png');	
+	float: left;
+	margin-left: 115px;
+	margin-top: 50px;
+}
+
+#Game13{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/HeavyRain.png');	
+	float: left;
+	margin-left: 115px;
+	margin-top: 50px;
+}
+
+#Game14{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/MTG.png');	
+	float: left;
+	margin-left: 115px;
+	margin-top: 50px;
+}
+
+#Game15{
+	width: 175px;
+	height: 250px;
+	background: darkgray;
+	background-image: url('images/Games/Rage.png');	
+	float: left;
+	margin-left: 115px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+
+#TextPopularGame{
+		height: 35px;
+		width: 220px;
+		background: rgba(255, 255, 255, 0);
+		color: white;
+		right: 20px;
+		top: 265px;
+		font-family: sans-serif;
+		font-size: 18px;
+		text-align: center ;
+		position: relative;
+
+		 
+}
+
+#TextPopularGame:hover{
+	text-decoration: underline;
+	color: white;
+}

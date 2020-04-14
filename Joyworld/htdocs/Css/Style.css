@@ -1,0 +1,297 @@
+#main_cont{
+margin:auto;
+width: 1290px;
+height: 645px;
+}
+
+#left_cont{
+width: 850px;
+float: left;
+}
+
+#right_cont{
+width: 440px;
+float: left;
+}
+
+#bottom_cont{
+width: 1290px;
+height: 650px;
+background: rgba(76, 73, 72, 0.5);
+margin: auto;
+}
+
+
+#MainNews{
+	width: 850px;
+	height: 450px;
+	background-image: url('images/Index/Keanu.png');
+	background-size: cover;
+
+}
+
+
+#LastNews{
+		height: 60px;
+		width: 100%;
+		background: rgba(76, 73, 72, 0.9);	
+		position: relative;
+		color: white;
+		font-family: sans-serif;
+		font-size: 30px;
+		text-align: center ;
+		line-height: 175%;
+
+		 
+}
+
+#AdditionalNews1{
+	width: 425px;
+	height: 195px;
+	background: rgba(76, 73, 72, 0.5);
+	background-image: url('images/Index/NewPC.png');
+	background-size: cover;
+
+}
+#AdditionalNews2{
+	width: 425px;
+	height: 195px;
+	background: darkgray;
+	background-image: url('images/Index/Top.png');
+	background-size: cover;
+}
+
+#AdditionalNews3{
+	width: 440px;
+	height: 195px;
+	float: left;
+	background: rgba(76, 73, 72, 0.5);
+	background-image: url('images/Index/Ubisoft.png');
+	background-size: cover;
+
+}
+#AdditionalNews4{
+	width: 440px;
+	height: 195px;
+	float: left;
+	background: rgba(76, 73, 72, 0.5);
+	background-image: url('images/Index/Genius.png');
+	background-size: cover;
+
+}
+
+#AdditionalNews5{
+	width: 440px;
+	height: 97.5px;
+	background: darkgray;
+	background-image: url('images/Index/TopRpg.png');
+	background-size: cover;
+}
+#AllNews{
+	width: 440px;
+	height: 97.5px;
+	background: rgba(76, 73, 72, 0.9);
+}
+#AllNews:hover{
+	text-decoration: underline;
+	background: dimgray;
+	color: white;
+
+}
+#PopularGames{
+	width: 1290.526px;
+	height: 650px;
+	background: rgba(76, 73, 72, 0.5);
+	background-size: cover;
+	float: left;
+}
+
+#PopularGame1{
+	width: 220px;
+	height: 400px;
+	background: darkgray;
+	background-image: url('images/Index/Assasins.png');
+	margin-left: 120px;
+	margin-top: -520px;	
+	float: left;
+}
+
+
+#PopularGame2{
+	width: 220px;
+	height: 400px;
+	background: darkgray;
+	background-image: url('images/Index/Witcher.png');
+	background-size: cover;
+	margin-left: 400px;
+	margin-top: -520px;	
+	float: left;
+}
+
+#PopularGame3{
+	width: 220px;
+	height: 400px;
+	background: darkgray;
+	background-image: url('images/Index/COD.png');
+	background-size: cover;
+	margin-left: 680px;
+	margin-top: -520px;	
+	float: left;
+}
+
+#PopularGame4{
+	width: 220px;
+	height: 400px;
+	background: darkgray;
+	background-image: url('images/Index/Ds3.png');
+	background-size: cover;
+	margin-left: 960px;
+	margin-top: -520px;	
+	float: left;
+}
+
+
+
+#TextMain{
+		height: 50px;
+		width: 100%;
+		background: rgba(255, 255, 255, 0.5);
+		position: relative;
+		top: 400px;
+		color: black;
+		font-family: sans-serif;
+		font-size: 35px;
+		text-align: center ;
+	
+		
+}
+.TextAdditional{
+		height: 50px;
+		width: 100%;
+		background: rgba(255, 255, 255, 0.5);
+		top: 145px;
+		position: relative;
+		color: black;
+		font-family: sans-serif;
+		font-size: 28px;
+		text-align: center ;
+
+			 
+}
+
+#TextAdditionalSize{
+		height: 30px;
+		width: 440px;
+		background: rgba(255, 255, 255, 0.5);
+		top: 70px;
+		position: relative;
+		color: black;
+		font-family: sans-serif;
+		font-size: 28px;
+		text-align: center ;
+
+			 
+}
+
+#TextAdditionalSmall{
+		height: 30px;
+		width: 100%;
+		background: rgba(255, 255, 255, 0.5);
+		top: 68px;
+		position: relative;
+		color: black;
+		font-family: sans-serif;
+		font-size: 28px;
+		text-align: center ;
+
+			 
+}
+
+#TextAdditionalWithout{
+		width: 100%;
+		background: rgba(76, 73, 72, 0);
+		position: relative;
+		color: white;
+		font-family: sans-serif;
+		font-size: 30px;
+		text-align: center ;
+		line-height: 60px;
+
+		 
+}
+
+#TextLastNews{
+		width: 100%;
+		background: rgba(76, 73, 72, 0);
+		position: relative;
+		color: white;
+		font-family: sans-serif;
+		font-size: 30px;
+		text-align: center ;
+		line-height: 60px;
+
+		 
+}
+#TextPopularGames{
+		width: 1290px;
+		height: 0px;
+	    background: rgba(76, 73, 72, 0.5);
+	    background-size: cover;
+	    float: left;
+		color: white;
+		font-family: sans-serif;
+		font-size: 35px;
+		text-align: center ;
+		line-height: 300%;
+
+		 
+}
+#TextPopularGame{
+		height: 50px;
+		width: 220px;
+		background: rgba(255, 255, 255, 0);
+		color: white;
+		top: 425px;
+		font-family: sans-serif;
+		font-size: 18px;
+		text-align: center ;
+		position: relative;
+
+		 
+}
+
+#TextMain:hover{
+	text-decoration: underline;
+	background: dimgray;
+	color: white;
+}
+
+#TextPopularGame:hover{
+	text-decoration: underline;
+	color: white;
+}
+
+
+.TextAdditional:hover{
+	text-decoration: underline;
+	background: dimgray;
+	color: white;
+}
+
+#TextAdditionalWithout:hover{
+	text-decoration: underline;
+	background: dimgray;
+	color: white;
+}
+
+#TextAdditionalSmall:hover{
+	text-decoration: underline;
+	background: dimgray;
+	color: white;
+}
+
+#TextAdditionalSize:hover{
+	text-decoration: underline;
+	background: dimgray;
+	color: white;
+}
